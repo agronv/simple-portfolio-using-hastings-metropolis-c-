@@ -1,8 +1,8 @@
 // Agron Velovic
 
-#include<iostream>
-#include<vector>
-#include<fstream>
+#include <iostream>
+#include <vector>
+#include <fstream>
 #include <ctime>
 #include <cmath>
 #include "matrix.h"
