@@ -1,9 +1,4 @@
 // Agron Velovic
-// cd C:\Users\avela\Desktop\c++\quotes
-// g++ -c -g hastings.cpp
-/* g++ -g -o hastings hastings.o
-  hastings.exe
-  */
 
 #include<iostream>
 #include<vector>
