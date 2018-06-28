@@ -87,7 +87,7 @@ int main(){
   vector<string> tickers;
   vector<int> w, best;
 
-  cout<<"Enter the number of stocks you would like to use"<<endl;
+  cout<<"Enter the number of stocks you would like to use: "<<endl;
   cin>>size;cout<<endl;
   column = 50;
 
@@ -219,5 +219,5 @@ int main(){
   }
   cout<<endl;
   cout<<"Min var: "<<E_min<<endl;
-  cout<<"Number of stocks in portfolio is: "<<number<<endl;
+  cout<<"Number of stocks in portfolio: "<<number<<endl;
 }
